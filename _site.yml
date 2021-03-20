@@ -1,0 +1,9 @@
+name: "forecasting-kenya"
+output_dir: "docs"
+navbar:
+  title: "Forecasting Kenya"
+  left:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
